@@ -12,7 +12,20 @@ The program calculates the average scores for each student, displays a grade rep
 - The main branch of this project is `main`.
 
 ---
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hnkhuy/score-sheet-manager.git
+   ```
+2. Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or VS Code).
+3. Make sure you are using **Java 21** (or at least Java 17+).
+4. Build the project.
+5. Run the program by executing the `main` method in:
+   ```
+   org.crossian.ScoreSheetManager
+   ```
 
+---
 ## Input Methods
 
 When you run the program, you will be prompted to select an input method:
